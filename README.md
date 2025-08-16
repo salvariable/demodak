@@ -2,6 +2,8 @@
 
 A React Native app that displays products with filtering, sorting, and detailed views. Built with Expo and TypeScript.
 
+https://github.com/user-attachments/assets/424efa6a-f388-411d-bbec-da54e8f22626
+
 ## Features
 
 - **Product Grid**: Browse products with images, prices, and ratings
